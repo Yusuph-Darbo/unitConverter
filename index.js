@@ -12,6 +12,7 @@ Compute all conversions.
 Display the results in the correct boxes. 
 */
 
+// Units of measurement
 const meter = 3.281;
 const liter = 0.264;
 const kilo = 2.204;
